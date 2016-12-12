@@ -1,3 +1,5 @@
+# Credit to PyImageSearch for the motion detection code and the PiCamera code
+# http://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/
 # import the necessary packages
 from picamera.array import PiRGBArray
 from picamera import PiCamera
